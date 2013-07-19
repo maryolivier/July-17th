@@ -1,9 +1,6 @@
 <h1> Hey </h1>
-<<<<<<< HEAD
 <h2>There </h2>
-=======
 <h2> Hi there! </h2>
->>>>>>> 194fd50c586ea80bea7dd6468e087bfd56366990
 
 
 <h1> There is a place… </h1>
